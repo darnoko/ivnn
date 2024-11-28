@@ -12,4 +12,4 @@ Założenie:
 Przyjąłem kursy walut przy wymianie srednie, z tabeli A, a nie kupna/sprzedazy z tabeli C.
 
 Wg wymagań ma działać, to działa.
-"# ivnn" 
+
